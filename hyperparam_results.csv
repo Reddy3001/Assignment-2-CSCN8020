@@ -1,0 +1,6 @@
+episodes,avg_steps,avg_return,final_100_avg_return,alpha,epsilon,gamma,kind
+5000,127.3008,-160.6494,-63.88,0.01,0.1,0.9,alpha_sweep
+5000,185.213,-258.4208,-252.56,0.001,0.1,0.9,alpha_sweep
+5000,23.5024,-11.4442,2.95,0.2,0.1,0.9,alpha_sweep
+5000,32.616,-32.4162,-6.19,0.1,0.2,0.9,epsilon_sweep
+5000,36.1464,-47.433,-13.0,0.1,0.3,0.9,epsilon_sweep
